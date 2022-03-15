@@ -1,0 +1,22 @@
+{
+  "name": "letter-to-ascii",
+  "version": "1.0.0",
+  "description": "A letter to ascii converter to troll your friends with!",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srevrtt/letter-to-ascii.git"
+  },
+  "author": "Everett Sistrunk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srevrtt/letter-to-ascii/issues"
+  },
+  "homepage": "https://github.com/srevrtt/letter-to-ascii#readme",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
