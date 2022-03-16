@@ -1,6 +1,6 @@
 {
   "name": "letter-to-ascii",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A letter to ascii converter to troll your friends with!",
   "main": "src/js/main.js",
   "scripts": {
